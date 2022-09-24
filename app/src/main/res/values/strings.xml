@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DaltonismoTeste</string>
+    <string name="daltonismo">
+        Daltonismo é uma perturbação da percepção visual
+        caracterizada pela incapacidade de diferenciar
+        todas ou algumas cores.
+    </string>
+</resources>
